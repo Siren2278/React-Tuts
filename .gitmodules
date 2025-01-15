@@ -1,0 +1,3 @@
+[submodule "lesson01"]
+	path = lesson01
+	url = git@github.com:Siren2278/lesson01.git
