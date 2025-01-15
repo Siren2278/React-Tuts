@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "mee"
+    },
+    {
+      "id": "4",
+      "checked": true,
+      "item": "wellone"
+    },
+    {
+      "id": "413f",
+      "item": "Test Item",
+      "checked": false
+    }
+  ]
+}
